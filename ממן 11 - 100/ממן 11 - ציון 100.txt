@@ -1,0 +1,16 @@
+
+
+שאלה 1:
+
+קצר ולענין.
+תוכנית מצוינת
+
+test1: passed
+test2: passed
+
+שאלה 2: 
+מצוין
+
+test1: passed
+test2: passed
+
