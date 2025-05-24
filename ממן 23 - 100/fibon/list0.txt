@@ -1,0 +1,6 @@
+This program creates circular linked list of fibonacci sequence. 
+n used to represent the number of nodes(there are n+1 nodes). 
+In addition the node which use the value n is the node with the highest value. 
+
+The nodes values in descending order are: 
+1 
